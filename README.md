@@ -1,16 +1,13 @@
-# ui_flutter
+# Flutter Hava durumu ui tasarımı
 
-A new Flutter project.
+Flutter ile basit bir havadurumu uygulaması arayüzü tasarlayarak, Widget ları tanıttıgım youtube vidomda anlattıgım projenin kodlarıdır.
 
-## Getting Started
+Video : https://www.youtube.com/watch?v=Qabr-EVEak8
+Youtube kanalım : https://www.youtube.com/@hasankoc1459
 
-This project is a starting point for a Flutter application.
+Videoda kullanılan tasarımın figma linki :
+https://www.figma.com/community/file/836596421863073964
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Ekran Görüntüleri 
+![alt text](https://raw.githubusercontent.com/HasanKoc33/flutter_ui/main/Screenshot%202024-01-15%20at%2014.34.56.png)
